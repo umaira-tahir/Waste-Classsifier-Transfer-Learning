@@ -72,3 +72,5 @@ The project follows a two-stage transfer learning strategy using the **VGG16** p
 ## 🎓 Acknowledgment
 
 This project was completed as part of the IBM AI Engineering Professional Certificate on Coursera, developed by IBM Skills Network.
+
+---
