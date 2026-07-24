@@ -64,3 +64,11 @@ The project follows a two-stage transfer learning strategy using the **VGG16** p
 3. Install the required libraries:
    ```bash
    pip install tensorflow numpy scikit-learn matplotlib
+4. Run all cells in order (Kernel → Restart & Run All).
+5. View outputs including model summary, accuracy/loss curves, and test predictions.
+
+---
+
+## 🎓 Acknowledgment
+
+This project was completed as part of the IBM AI Engineering Professional Certificate on Coursera, developed by IBM Skills Network.
